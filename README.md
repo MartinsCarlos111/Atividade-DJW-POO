@@ -11,3 +11,9 @@ Utilizamos o código do exemplo dado pela professora e alteramos valores de cor,
 ![image](https://user-images.githubusercontent.com/101645719/174612852-308d5c99-5eff-473a-8676-87cac0222259.png)
 <br>
 Mudanças realizadas.
+
+Relatório dia 21/06/2022<br>
+Utilizando o exemplo da professora, mudei a logica de geração aleatoria e também impedi o meteorito de atingir as bordas do site. Para concluir adicionei um pouquinho de texto com algumas instruções e mudei algumas cores.
+![image](https://user-images.githubusercontent.com/101645719/174816267-445a071d-9415-4f04-8e4c-af89d3c9d83b.png)
+<br>
+Mudanças reaçizadas.
